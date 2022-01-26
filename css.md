@@ -1,7 +1,7 @@
 
 to use rem:
 
-'
+`
 /* mobile */
 html {
     font-size: 16px;
@@ -24,4 +24,4 @@ html {
         font-size: 24px;
     }
 }
-'
+`
