@@ -3,9 +3,11 @@ to use rem:
 
 `
 /* mobile */
+
 html {
     font-size: 16px;
 }
+
 /* tablet */
 @media only screen and (min-width: 480px) {
     html {
